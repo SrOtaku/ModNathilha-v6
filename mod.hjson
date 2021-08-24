@@ -1,0 +1,11 @@
+#Modified-23/agost/21-6:17(BR-PE)
+{
+  name: "nathilhamod"
+  author: "[red]Red[blue]Game"
+  displayName: "[purple]Nathilha[][red]Mod[]"
+  description: "Um mod que adiciona alguns items novos.\n[sky]Tentarei manter atualizando sempre que for possível."
+ 
+  version: V1.6(Public-Beta)
+  minGameVersion: 126
+  hidden: false
+}
