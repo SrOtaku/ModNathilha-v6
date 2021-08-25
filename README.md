@@ -28,6 +28,6 @@
   
    Tradução de inglês em: 95%
 
-   Tradução de português em: 100%`
-
+   Tradução de português em: 100%
+*********************************
 
