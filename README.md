@@ -16,9 +16,9 @@
 
 (TODA AS TRADUÇÕES FORAM FEITA A PARTIR DA GOOGLE! Erro no inglês será "normal").
 
- #Atulizações-v1.7(Public-Beta)
+ <h2>#Atulizações-v1.7(Public-Beta)</h2>
 
-  #Modificações-25/agost/21/6:42AM
+  <b>#Modificações-25/agost/21/6:42AM</b>
  
   Blocos novos adicionados.
   Algumas fábricas novas adicionadas.
