@@ -2,13 +2,13 @@
 
   É um mod simples. Estou ultilizando mais para conhecer a programação do gamer, então decidi brincar um pouco com a liberdade de criar mods. 
      
- <h2>AVISO!
 
+<h2>AVISO!</h2>
 
   Pode conter erros de programação...
   Aliás, porfavor mandem seu feedbacks, para que eu possa melhorar meus mods. 
   (Eu preciso de um "Guia da Programação" na minha jornada :') ).
- </h>
+ 
  #Segundo Aviso:
 
   Provavelmente eu vou atualizar o mod ou fazer manutenções raramente então não esperem muita coisa de um iniciante e também caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord. 
