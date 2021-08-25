@@ -24,10 +24,10 @@
   Algumas fábricas novas adicionadas.
   Duas nova torres adiconadas.
   
-   #Idiomas
+  #Idiomas
   
-   Tradução de inglês em: 95%
+  Tradução de inglês em: 95%
 
-   Tradução de português em: 100%
+  Tradução de português em: 100%
 *********************************
 
