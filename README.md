@@ -2,7 +2,7 @@
 
   É um mod simples. Estou ultilizando mais para conhecer a programação do gamer, então decidi brincar um pouco com a liberdade de criar mods. 
      
- #Aviso:
+ <h3 AVISO!/>
 
 
   Pode conter erros de programação...
