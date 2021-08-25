@@ -31,33 +31,3 @@
    Tradução de português em: 100%`
 
 
- <b>#Notice in English</b>
-  
-  A simple mod for testing. I am beginner so it will contain several errors in mod programming.                    :') 
-  
- #Second Notice: 
-  
-  Probably I will update the mod or do maintenance rarely so don't expect much from a beginner and also if someone wanted to help me, qthey can contact me at discord.
-    My nick on discord: `redgame69~teus🇧🇷#4751` 
-  
-  (ALL TRANSLATIONS WERE MADE FROM GOOGLE! Error in English will be "normal").
-
-   <h2>#Updates-v1.7(Public-Beta)</h2></center>
-
-   <b>#Modification-25/agost/21/6:42AM</b>
-
-    New blocks added. 
-  
-    Some new factories added.
-  
-    Two new towers added.
-    
-    #Languages:
-   
-    English Translation into: 100% 
-   
-    Portuguese Translation into: 100%
-  
-   ***************************************
-  
-  
