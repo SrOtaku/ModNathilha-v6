@@ -17,7 +17,7 @@
 
  <h2>#Atualização: v1.7(Public-Beta)</h2>
 
-  <b>`#Modificações-25/agost/21/6:42AM`</b>
+  <b>`#Novidades-25/agost/21/</b>
   
   <li/>Blocos novos adicionados.<br/>
   <li/>Algumas fábricas novas adicionadas.<br/>
