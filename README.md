@@ -19,8 +19,8 @@
  <h2>#Atulizações-v1.7(Public-Beta)</h2>
 
   <b>#Modificações-25/agost/21/6:42AM</b>
-  ***********************************
-  Blocos novos adicionados.
+  
+  `Blocos novos adicionados.
   Algumas fábricas novas adicionadas.
   Duas nova torres adiconadas.
   
@@ -28,8 +28,8 @@
   
    Tradução de inglês em: 95%
 
-   Tradução de português em: 100%
-  ********************************
+   Tradução de português em: 100%`
+
 
  <b>#Notice in English</b>
   
@@ -38,15 +38,15 @@
  #Second Notice: 
   
   Probably I will update the mod or do maintenance rarely so don't expect much from a beginner and also if someone wanted to help me, qthey can contact me at discord.
-    My nick on discord:`~redgame69~teus🇧🇷#4751` 
+    My nick on discord: `redgame69~teus🇧🇷#4751` 
   
   (ALL TRANSLATIONS WERE MADE FROM GOOGLE! Error in English will be "normal").
 
- <center><h2>#Updates-v1.7(Public-Beta)</h2></center>
+   <h2>#Updates-v1.7(Public-Beta)</h2></center>
 
    <b>#Modification-25/agost/21/6:42AM</b>
 
-    New blocks added.
+    New blocks added. 
   
     Some new factories added.
   
@@ -56,7 +56,7 @@
    
     English Translation into: 100% 
    
-    Portuguese Translation into: 100% 
+    Portuguese Translation into: 100%
   
    ***************************************
   
