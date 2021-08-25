@@ -19,8 +19,8 @@
  <h2>#Atulizações-v1.7(Public-Beta)</h2>
 
   <b>#Modificações-25/agost/21/6:42AM</b>
-  
-  *Blocos novos adicionados.
+  ***********************************
+  Blocos novos adicionados.
   Algumas fábricas novas adicionadas.
   Duas nova torres adiconadas.
   
@@ -29,7 +29,7 @@
    Tradução de inglês em: 95%
 
    Tradução de português em: 100%
-   *
+  ********************************
 
  <b>#Notice in English</b>
   
