@@ -25,3 +25,4 @@
   <li>Tradução de En-US: 95%</li>
   <li>Tradução de Pt-BR: 100%</li>
 
+<h2>Copyright License</h2>
