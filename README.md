@@ -11,8 +11,7 @@
  
  <h3>Segundo Aviso</h3>
 
-  Provavelmente eu vou atualizar o mod ou fazer manutenções raramente então não esperem muita coisa de um iniciante e também caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord.<b/>
-Meu nick no discord:`~redgame69~teus🇧🇷#4751`
+  Provavelmente eu vou atualizar o mod ou fazer manutenções raramente então não esperem muita coisa de um iniciante e também caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord.<br/>Meu discord:`~redgame69~teus🇧🇷#4751`
 
 (TODA AS TRADUÇÕES FORAM FEITA A PARTIR DA GOOGLE! Erro no inglês será "normal").
 
@@ -20,7 +19,7 @@ Meu nick no discord:`~redgame69~teus🇧🇷#4751`
 
   <b>`#Modificações-25/agost/21/6:42AM`</b>
   
-  Blocos novos adicionados.
+  <li/>Blocos novos adicionados.
   Algumas fábricas novas adicionadas.
   Duas nova torres adiconadas.
   
