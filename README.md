@@ -1,8 +1,5 @@
 # Mod-Nathilha-Beta
 
-//Modification-30/agost/21/5:57PM(BR-PE)
- 
-  
   É um mod simples. Estou ultilizando mais para conhecer a programação do gamer, então decidi brincar um pouco com a liberdade de criar mods. 
      
  #Aviso:
@@ -19,13 +16,14 @@
 
 (TODA AS TRADUÇÕES FORAM FEITA A PARTIR DA GOOGLE! Erro no inglês será "normal").
 
- #Atulizações:
+ #Atulizações-v1.7(Public-Beta)
+  
   #Idiomas:
   
   Tradução de inglês em: 95%
   Tradução de português em: 100%
  
- #Modificações:
+ #Modificações-30/agost/21/5:57PM(BR-PE)
  
   Blocos novos adicionados.
   Algumas fábricas novas adicionadas.
@@ -42,14 +40,14 @@
   
   (ALL TRANSLATIONS WERE MADE FROM GOOGLE! Error in English will be "normal").
   
- #Updates:
+ #Updates-v1.7(Public-Beta)
   
    #Languages:
    English Translation into: 100% 
    Portuguese Translation into: 100% 
 
- #Modifications:
- 
+ #Modification-30/agost/21/5:57PM(BR-PE)
+  
   New blocks added.
   
   Some new factories added.
