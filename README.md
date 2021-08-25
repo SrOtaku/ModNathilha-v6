@@ -16,18 +16,15 @@
 
 (TODA AS TRADUÇÕES FORAM FEITA A PARTIR DA GOOGLE! Erro no inglês será "normal").
 
- <h2>#Atulizações-v1.7(Public-Beta)</h2>
+ <h2>#Atualização: v1.7(Public-Beta)</h2>
 
-  <b>#Modificações-25/agost/21/6:42AM</b>
+  <b>`#Modificações-25/agost/21/6:42AM`</b>
   
-  `Blocos novos adicionados.
+  Blocos novos adicionados.
   Algumas fábricas novas adicionadas.
   Duas nova torres adiconadas.
   
-  #Idiomas
-  
-  Tradução de inglês em: 95%
-
-  Tradução de português em: 100%
+  `#Idiomas`<Br/>
+  Tradução de inglês em: 95%<Br/>Tradução de português em: 100%
 *********************************
 
