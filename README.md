@@ -24,7 +24,7 @@
   Algumas fábricas novas adicionadas.
   Duas nova torres adiconadas.
   
-   #Idiomas:
+   <b>#Idiomas</b>
   
    Tradução de inglês em: 95%
 
@@ -41,7 +41,7 @@
   
   (ALL TRANSLATIONS WERE MADE FROM GOOGLE! Error in English will be "normal").
 
- #Updates-v1.7(Public-Beta)
+ <h2>#Updates-v1.7(Public-Beta)</h2>
 
    #Modification-25/agost/21/6:42AM
 
