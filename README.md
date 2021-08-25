@@ -1,9 +1,9 @@
-# Mod-Nathilha-Beta
+<h2><center># Mod-Nathilha-Beta</center></h2>
 
   É um mod simples. Estou ultilizando mais para conhecer a programação do gamer, então decidi brincar um pouco com a liberdade de criar mods. 
      
 
-<h2>AVISO!</h2>
+<h3>AVISO!</h3>
 
   Pode conter erros de programação...
   Aliás, porfavor mandem seu feedbacks, para que eu possa melhorar meus mods. 
@@ -23,7 +23,7 @@
   <li/>Algumas fábricas novas adicionadas.<br/>
   <li/>Duas nova torres adiconadas.
   
-  `#Idiomas`<Br/>
-  Tradução de inglês em: 95%<Br/>Tradução de português em: 100%
-*********************************
+  `#Idiomas`<br/>
+  <li/>Tradução de En-US: 95%<br/>
+  <li/>Tradução de Pt-BR: 100%
 
