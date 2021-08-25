@@ -1,11 +1,10 @@
-{
-type: wall
-size: 2
-health: 4800
+{type: wall
+ size: 2
+ health: 4800
   requirements: [
     graphite/28
     nathilhaIngot/28
     thorium/28
   ]
-category: defense
+ category: defense
 }
