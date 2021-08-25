@@ -30,7 +30,7 @@
 
    Tradução de português em: 100%
 
- #Notice in English
+ <b>#Notice in English</b>
   
   A simple mod for testing. I am beginner so it will contain several errors in mod programming.                    :') 
   
@@ -41,9 +41,9 @@
   
   (ALL TRANSLATIONS WERE MADE FROM GOOGLE! Error in English will be "normal").
 
- <h2>#Updates-v1.7(Public-Beta)</h2>
+ <center><h2>#Updates-v1.7(Public-Beta)</h2></center>
 
-   #Modification-25/agost/21/6:42AM
+   <b>#Modification-25/agost/21/6:42AM</b>
 
     New blocks added.
   
