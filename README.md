@@ -24,6 +24,7 @@
   <li/>Duas nova torres adiconadas.
   
   `#Idiomas`<br/>
-  <li/>Tradução de En-US: 95%<br/>
-  <li/>Tradução de Pt-BR: 100%
-
+```
+  Tradução de En-US: 95%
+  Tradução de Pt-BR: 100%
+```
