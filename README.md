@@ -19,9 +19,9 @@
 
   <b>`#Modificações-25/agost/21/6:42AM`</b>
   
-  <li/>Blocos novos adicionados.
-  Algumas fábricas novas adicionadas.
-  Duas nova torres adiconadas.
+  <li/>Blocos novos adicionados.<br/>
+  <li/>Algumas fábricas novas adicionadas.<br/>
+  <li/>Duas nova torres adiconadas.
   
   `#Idiomas`<Br/>
   Tradução de inglês em: 95%<Br/>Tradução de português em: 100%
