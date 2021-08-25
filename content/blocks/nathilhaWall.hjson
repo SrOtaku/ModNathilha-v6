@@ -1,0 +1,11 @@
+{
+type: wall
+size: 1
+health: 1250
+  requirements:[
+    graphite/8
+    nathilhaIngot/8
+    titanium/8
+  ]
+category: defense
+}

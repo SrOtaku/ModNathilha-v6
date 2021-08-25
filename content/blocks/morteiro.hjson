@@ -1,0 +1,105 @@
+{
+  type: ItemTurret
+
+health: 360
+size: 2
+hasPower: false
+hasLiquid: true
+range: 265
+inaccuracy: 3
+rotate: true
+rotatespeed: 25
+reloadTime: 45
+shots: 2
+restitution: 0.6
+coolantMultiplier: 40
+ammoEjectBack: 2
+burstSpacing: 6
+cooldown: 0.2
+targetAir: false
+targetGround: true
+recoilAmount: 3
+
+
+shootSound: artillery
+buildTime: 1
+
+ammoTypes: {
+  natril:{
+    damage: 75.5
+    speed: 6.5
+    sprite: nathilhamod-nathilha1
+    backColor: 8200b897
+    frontColor: b94dff
+    lifetime: 40
+    ammoMultiplier: 4
+    height: 14
+    width: 9
+    hitSize: 4
+    reloadMultiplier: 0.7
+    incendAmount: 0.5
+    fragBullets: 6
+    splashDamage: 10
+    splashDamageRadius: 1
+    fragBullet: {
+      type: ArtilleryBulletType
+      hitEffect: blastExplosion
+      splashDamageRadius: 1
+      incendAmount: 1
+      incendTime: 0.6
+      splashDamage: 10
+      width: 3
+      height: 4
+      damage: 20
+      lifetime: 30
+      speed: 1.5
+      }
+    }
+    silicon:{
+      damage: 28
+      speed: 6.5
+      backColor: 7e7e7e
+      frontColor: b3b3b3
+      lifetime: 35
+      ammoMultiplier: 1
+      height: 12
+      width: 8
+    }
+    thorium:{
+      damage: 45
+      speed: 6.2
+      backColor: dd7af9
+      frontColor: f960fa
+      lifetime: 40
+      ammoMultiplier: 2
+      height: 12
+      width: 8
+    }
+    graphite:{
+      damage: 30
+      speed: 6.2
+      frontColor: a7e9fa
+      backColor: 00ccff
+      lifetime: 38
+      ammoMultiplier: 2
+      height: 12
+      width: 8
+    }}
+    
+requirements:[
+  nathilhaIngot/80
+  graphite/60
+  titanium/75
+  ]
+category: turret
+
+liquidCapacity: 20
+itemCapacity: 30
+
+consumes: {
+  liquid: {
+    liquid: cryofluid
+    booster:true
+    optional: true
+    amount: 0.02
+}}}

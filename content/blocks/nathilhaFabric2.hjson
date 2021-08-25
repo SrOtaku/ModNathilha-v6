@@ -1,0 +1,27 @@
+{
+type: GenericCrafter
+health: 100
+size: 1
+buildingTime: 60.5
+itemsCapacity: 5
+hasPower: true
+hasItems: true
+hasLiquid: false
+craftTime: 190.5
+updateEffect: smeltsmoke
+consumes: { 
+  power: 0.6
+  items: { 
+    items:[ 
+    thorium/2
+    titanium/1
+]}}
+requirements:[
+  copper/25
+  graphite/35
+  titanium/40
+  lead/10
+]
+category: crafting
+outputItem: nathilhaIngot/1
+}

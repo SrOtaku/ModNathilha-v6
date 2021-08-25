@@ -1,0 +1,38 @@
+{type: PowerTurret
+
+size: 2
+targetAir: true
+targetGround: true
+hasPower: true
+reloadTime: 36
+cooldown: 5
+range: 190
+health: 450
+shootSound: laser
+recoilAmount: 2
+inaccuracy: 5.5
+powerUse: 9.5
+shootType:{
+  type: LaserBulletType
+  damage: 25
+  lenght: 195
+  width: 10
+}
+
+consumes:{
+  liquid:{
+    liquid: cryofluid
+    amount: 0.2
+    optional: true
+    booster: true
+  }
+}
+
+requirements:[
+  lead/65
+  graphite/50
+  nathilhaIngot/80
+  thorium/32
+  ]
+category: turret
+}

@@ -1,0 +1,51 @@
+{type: PowerTurret
+
+health: 500
+range: 380
+size: 3
+shootSound: laserblast
+chargeSound: lasercharge2
+chargeEffect: lancerLaserCharge
+chargeBeginEffect: lancerLaserChargeBegin
+chargeTime: 68
+chargeMaxDelay: 0.5
+chargeEffects: 10
+cooldown: 0.8
+targetAir: false
+targetGround: true
+rotateSpeed: 2
+reloadTime: 185
+hasPower: true
+liquidCapacity: 30
+recoilAmount: 3.5
+buildTime: 5.00
+powerUse: 15.0
+drawSize: 200
+
+shootType: {
+  type: LaserBulletType
+  damage: 450
+  lifetime: 32
+  length: 375
+  width: 28
+  incendAmount: 100
+  ammoMultiplier:1
+  }
+
+requirements: [
+  graphite/180
+  silicon/150
+  nathilhaIngot/250
+  thorium/100
+  ]
+
+consumes: {
+  liquid: {
+    liquid: cryofluid
+    amount: 0.4
+    optional: true
+    booster: true
+    }
+  }
+category: turret
+}
