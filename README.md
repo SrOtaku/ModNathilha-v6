@@ -1,4 +1,4 @@
-<h2><center># Mod-Nathilha-Beta</center></h2>
+<h1>#Mod-Nathilha</h1>
 
   É um mod simples. Estou ultilizando mais para conhecer a programação do gamer, então decidi brincar um pouco com a liberdade de criar mods. 
      
