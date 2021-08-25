@@ -26,4 +26,4 @@
   <li>Tradução de Pt-BR: 100%</li>
 
 <h2>Copyright License</h2>
- E permitido modificar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.
+ E permitido modificar, compartilhar, baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.
