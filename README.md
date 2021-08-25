@@ -18,7 +18,7 @@
 
  #Atulizações-v1.7(Public-Beta)
 
-  #Modificações-30/agost/21/5:57PM(BR-PE)
+  #Modificações-25/agost/21/6:42AM
  
   Blocos novos adicionados.
   Algumas fábricas novas adicionadas.
@@ -43,7 +43,7 @@
 
  #Updates-v1.7(Public-Beta)
 
-   #Modification-30/agost/21/5:57PM(BR-PE)
+   #Modification-25/agost/21/6:42AM
 
     New blocks added.
   
