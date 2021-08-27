@@ -11,7 +11,7 @@ Aliás, porfavor mandem seu feedbacks, para que eu possa melhorar meus mods.
 
 Provavelmente eu vou atualizar o mod ou fazer manutenções raramente então não esperem muita coisa de um iniciante e também
   
-caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord.<br/>Meu discord:`~redgame69~teus🇧🇷#4751`
+Caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord.<br/>Meu discord:`~redgame69~teus🇧🇷#4751`
 
 (TODA AS TRADUÇÕES FORAM FEITA A PARTIR DA GOOGLE! Erro no inglês será "normal").
 
