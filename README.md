@@ -26,10 +26,16 @@ caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord.<br/>M
 `#Idiomas`<br/>
 <li>Tradução de En-US: 95%</li>
 <li>Tradução de Pt-BR: 100%</li>
+
 <h2>Proxima atualização</h2>
+  <b><i>v1.8(Public-Beta)</i></b>
+    <li/>Um pequena melhoria na Pixel Arte.
+    <li/>Muro de Nathilha tamanho 4
+    <li/>Correções do código.
 
+<h3>Data da atualização</h3>
+      -indeterminado-
 
-
-<i><<h2>Copyright License</h2>
- E permitido modificar, compartilhar e baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.
+<i><h2>Copyright License</h2>
+ E permitido modificar, compartilhar e baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.<b>(AVISO: essa regra estar sujeito a modificações)</b>
 </i>
