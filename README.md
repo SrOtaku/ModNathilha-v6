@@ -37,5 +37,5 @@ caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord.<br/>M
       -indeterminado-
 
 <i><h2>Copyright License</h2>
- E permitido modificar, compartilhar e baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.<b>(AVISO: essa regra estar sujeito a modificações)</b>
+ E permitido modificar, compartilhar e baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.<b>(!AVISO!: Essa regra estar sujeito a modificações)</b>
 </i>
