@@ -13,7 +13,7 @@ Provavelmente eu vou atualizar o mod ou fazer manutenções raramente então nã
   
 Caso alguem queriam me ajuda, podem entrar em contato comigo pelo discord.<br/>Meu discord:`~redgame69~teus🇧🇷#4751`
 
-(TODA AS TRADUÇÕES FORAM FEITA A PARTIR DA GOOGLE! Erro no inglês será "normal").
+<b>(TODA AS TRADUÇÕES FORAM FEITA A PARTIR DA GOOGLE PODE A VER ERROS DE INGLÊS!).</b>
 
 <h2>#Atualização: v1.7(Public-Beta)</h2>
 
