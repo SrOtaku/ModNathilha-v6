@@ -28,7 +28,7 @@ Provavelmente eu vou atualizar o mod ou fazer manutenções raramente, então n�
 
 <h2>Atualização: V1.71(Public-Beta)</h2>
 
-<b>`Novidades-19/setembro/21`</b>
+<b>`Novidades-19/September/21`</b>
 
 <li/>Pequenas correções</br>
 
