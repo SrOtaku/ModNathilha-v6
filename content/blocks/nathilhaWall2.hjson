@@ -1,6 +1,8 @@
 {type: wall
  size: 2
  health: 4800
+buildTime: 60
+buildCostMultiplier: 2.08
   requirements: [
     graphite/28
     nathilhaIngot/28
