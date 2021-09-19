@@ -2,8 +2,7 @@
   name: "nathilhamod"
   author: "[red]Red[blue]Game"
   displayName: "[purple]Nathilha[][red]Mod[]"
-  description: "Um mod que adiciona alguns items novos.\n[sky]Tentarei manter atualizando sempre que possível.\n\n[gray]Meu Github:\n[stat]https://github.com/SrOtaku/ModNathilha"
-
+  description: "Um mod que adiciona alguns items novos.\n[sky]Tentarei manter atualizando sempre que possível.\n\n[gray]Meu Github:\n[stat] https://github.com/SrOtaku/ModNathilha"
   version: 1.71(Public-Beta)
   minGameVersion: 126
   hidden: false
