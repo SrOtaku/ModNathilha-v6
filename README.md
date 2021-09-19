@@ -26,6 +26,12 @@ Provavelmente eu vou atualizar o mod ou fazer manutenções raramente, então n�
 <li>Tradução de En-US: 95%</li>
 <li>Tradução de Pt-BR: 100%</li>
 
+<h2>Atualização: V1.71(Public-Beta)</h2>
+
+<b>Novidades-19/setembro/21</b>
+
+<li/>Pequenas correções</br>
+
 <h2>Proxima atualização</h2>
   <b><i>v1.8(Public-Beta)</i></b>
     <li/>Um pequena melhoria na Pixel Arte.
