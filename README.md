@@ -33,9 +33,7 @@ Provavelmente eu vou atualizar o mod ou fazer manutenções raramente, então n�
 
 <li/>Pequenas correções</br>
 
-<h2>Proxima atualização</h2>
-<h3>Data da atualização</h3>
-      -indeterminado-
+<h2>Proxima atualização: 1.8(Públic-Beta)</h2>
   <b><i>v1.8(Public-Beta)</i></b>
     <li/>Um pequena melhoria na Pixel Arte.
     <li/>Muro de Nathilha tamanho 4
