@@ -5,5 +5,6 @@
   description: "Um mod que adiciona alguns items novos.\n[sky]Tentarei manter atualizando sempre que possível.\n\n[gray]Meu Github:\n[stat] https://github.com/SrOtaku/ModNathilha"
   version: 1.71(Public-Beta)
   minGameVersion: 126
+  java: false
   hidden: false
 }
