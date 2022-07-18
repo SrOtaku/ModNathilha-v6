@@ -1,4 +1,4 @@
-<h1>#Mod-Nathilha-v6</h1>
+#Mod-Nathilha-v6
 
  <h2><font color="FF0400">AVISO: Atualmente o mindustry atualizou para a <i>versão: v7-136</i> o mod está obsoleto, pretendo atualizar futuramente.</font></h2>
 
