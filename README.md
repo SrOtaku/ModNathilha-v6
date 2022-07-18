@@ -18,7 +18,7 @@ Provavelmente eu vou atualizar o mod ou fazer manutenções raramente, então n�
 
 <h2>#Atualização: v1.7(Public-Beta)</h2>
 
-<b>`#Novidades-25/agost/21/`</b>
+<blockquote><b>`#Novidades-25/agost/21/`</b>
   
 <li/>Blocos novos adicionados.<br/>
 <li/>Algumas fábricas novas adicionadas.<br/>
@@ -43,3 +43,4 @@ Provavelmente eu vou atualizar o mod ou fazer manutenções raramente, então n�
 <i><h2>Copyright License</h2>
  E permitido modificar, compartilhar e baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.<b>(!AVISO!: Essa regra estar sujeito a modificações)</b>
 </i>
+</blockquote>
