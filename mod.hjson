@@ -7,5 +7,6 @@
  
   version: V1.6(Public-Beta)
   minGameVersion: 126
+  java: false
   hidden: false
 }
