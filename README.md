@@ -1,6 +1,6 @@
 <h1>#Mod-Nathilha-v6</h1>
 
- <b>AVISO: atualmente o mindustry está na versão v7-136 o mod está obsoleto, pretendo atualizar futuramente.</b>
+ <h2>AVISO: atualmente o mindustry está na versão v7-136 o mod está obsoleto, pretendo atualizar futuramente.</h2>
 
  - É um mod simples. Estou ultilizando mais para conhecer a linguagem da programação deste jogo, então decidi brincar um pouco com a liberdade de criar mods.
  Pullresquest são bem vindas! 
