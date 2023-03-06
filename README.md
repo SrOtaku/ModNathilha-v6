@@ -41,6 +41,6 @@ Provavelmente eu vou atualizar o mod ou fazer manutenções raramente, então n�
     <li/>Correções do código.
 
 <i><h2>Copyright License</h2>
- E permitido modificar, compartilhar e baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.<b>(!AVISO!: Essa regra estar sujeito a modificações)</b>
+ E permitido modificar, compartilhar e baixar mais <b>EU NÃO ME RESPONSABILIZO</b> por nada no momento em que tenha sido modificado por terceiros.<b>(!AVISO!: Essa regra esta sujeito a modificações)</b>
 </i>
 </blockquote>
